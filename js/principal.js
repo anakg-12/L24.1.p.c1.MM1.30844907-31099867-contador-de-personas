@@ -7,7 +7,7 @@ Liz, Marcos y Leo; la salida requerida presenta el siguiente formato:
 import CL_persona from "./CL_persona.js";
 import CL_totalp from "./CL_totalp.js";
 
-let persona1 = new CL_persona ("Luis","M");
+let persona1 = new CL_persona ("Luisa","F");
 let persona2= new CL_persona ("Ana","F");
 let persona3 = new CL_persona ("Jose","M");
 let persona4 = new CL_persona ("Carmen","F");
